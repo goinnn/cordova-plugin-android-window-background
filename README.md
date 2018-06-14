@@ -18,7 +18,7 @@ Or install directly from this repo:
 	
 ## Supported Platforms
 
-- Android (cordova-android 7.0.0+)
+- Android (cordova-android 6.0.0+)
 
 ## Configuration
 
